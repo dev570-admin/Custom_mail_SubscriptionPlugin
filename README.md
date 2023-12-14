@@ -4,7 +4,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M master
-git remote add origin https://github.com/dev570-admin/wp-custom-contact-form-plugin.git](https://github.com/dev570-admin/Custom_mail_SubscriptionPlugin.git(your repo url where you want to upload)
+git remote add origin https://github.com/dev570-admin/Custom_mail_SubscriptionPlugin.git (your repo url where you want to upload)
 git push -u origin master
 ===================xxxx================================================
 

@@ -25,7 +25,7 @@ function subscription_form_shortcode() {
         <input type="submit" value="Subscribe">
     </form>
     <?php
-    return ob_get_clean();
+    return ob_get_clean(); 
 }
 
 add_shortcode('subscription_form', 'subscription_form_shortcode');

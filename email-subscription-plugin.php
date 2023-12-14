@@ -103,9 +103,6 @@ function send_post_notification($ID, $post) {
         }
     }
 }
-
-
-
 add_action('publish_post', 'send_post_notification', 10, 2);
 
 // // Display the list of subscribed emails
